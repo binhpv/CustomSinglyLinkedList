@@ -95,7 +95,7 @@ public class CustomSinglyLinkedList {
         }
     }
 
-    private static class Node {
+    private class Node {
         int data;
         Node nextNode;
 
